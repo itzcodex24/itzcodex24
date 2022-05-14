@@ -3,7 +3,7 @@
 
 * I am [Codex](https://youtube.com) :blush:	 . Currently I am a college student from the UK studying Computer Science, Physics and Maths :satellite:
 
-* I am a Web Developer and FiveM Developer:sparkles:.
+* I am currently a Front-End Web Developer and working on becoming a FiveM Developer:sparkles:.
 
 * I have done multiple projects ranging from the field of Devops , to fully functional websites :file_cabinet: .
 
