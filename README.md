@@ -3,10 +3,9 @@
 
 # Reach Out:
 
-- 👨‍💻 Portfolio: [Portfolio](https://codex-dev.vercel.app)
-- 📺 YouTube: [YouTube](https://www.youtube.com/channel/UCmaNlVmY55-flPVPnyF2Riw)
-- 🕊️ Twitter [Twitter](https://twitter.com/itzcodex24)
-- ✉️ Mail
+- 👨‍💻 [Portfolio](https://codex-dev.vercel.app)
+- 📺 [YouTube](https://www.youtube.com/channel/UCmaNlVmY55-flPVPnyF2Riw)
+- 🕊️ [Twitter](https://twitter.com/itzcodex24)
 
 
 # 💻 Tech Stack:
