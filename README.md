@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Codex</h1>
 <h3 align="center">A passionate Full Stack Dev from the UK</h3>
 
-# 🔗 Important Links:
+# Reach Out:
 
 - 👨‍💻 Portfolio: [Portfolio](https://codex-dev.vercel.app)
 - 📺 YouTube: [YouTube](https://www.youtube.com/channel/UCmaNlVmY55-flPVPnyF2Riw)
+- 🕊️ Twitter [Twitter](https://twitter.com/itzcodex24)
+- ✉️ Mail
 
 
 # 💻 Tech Stack:
