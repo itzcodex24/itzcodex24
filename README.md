@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Codex</h1>
 <h3 align="center">A passionate Full Stack Dev from the UK</h3>
 
-![codex-dev](https://github.com/itzcodex24/itzcodex24/assets/70026038/dbcb6847-d2cd-41db-92e1-55446ecf7dfc)
+<div style="width: 100%; display: flex; justify-content: center; align-items: center;">
+  <img src="https://github.com/itzcodex24/itzcodex24/assets/70026038/dbcb6847-d2cd-41db-92e1-55446ecf7dfc" style="border-radius: 50%;"/>
+</div>
+
 
 # 🔗 Important Links:
 
