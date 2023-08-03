@@ -3,7 +3,7 @@
 
 # 🔗 Important Links:
 
-- 👨‍💻 Portfolio: [Portfolio](codex-dev.vercel.app)
+- 👨‍💻 Portfolio: [Portfolio](https://codex-dev.vercel.app)
 - 📺 YouTube: [YouTube](https://www.youtube.com/channel/UCmaNlVmY55-flPVPnyF2Riw)
 
 
