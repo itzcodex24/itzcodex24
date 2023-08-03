@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Codex</h1>
 <h3 align="center">A passionate Full Stack Dev from the UK</h3>
 
-- 🌱 I’m currently learning **Rust**
+# 🔗 Important Links:
 
-- 👨‍💻 Read more about me [codex-dev.vercel.app](codex-dev.vercel.app)
-
-- 💬 Ask me about **ReactJS, NextJS, NodeJS**
+- 👨‍💻 Portfolio: [Portfolio](codex-dev.vercel.app)
+- 📺 YouTube: [YouTube](https://www.youtube.com/channel/UCmaNlVmY55-flPVPnyF2Riw)
 
 
 # 💻 Tech Stack:
