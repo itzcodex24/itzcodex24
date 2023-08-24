@@ -4,7 +4,6 @@
 # Reach Out:
 
 - 👨‍💻 [Portfolio](https://codex-dev.vercel.app)
-- 📺 [YouTube](https://www.youtube.com/channel/UCmaNlVmY55-flPVPnyF2Riw)
 - 🕊️ [Twitter](https://twitter.com/itzcodex24)
 
 
