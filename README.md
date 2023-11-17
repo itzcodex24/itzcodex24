@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Codex</h1>
+<h1 align="center">Hi 👋, I'm Andrei (Codex)</h1>
 <h3 align="center">A passionate Full Stack Dev from the UK</h3>
 
 # Reach Out:
