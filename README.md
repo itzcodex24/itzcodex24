@@ -5,6 +5,7 @@
 
 - 👨‍💻 [Portfolio](https://codex-dev.vercel.app)
 - 🕊️ [Twitter](https://twitter.com/itzcodex24)
+- 📙 [Discord](https://discord.gg/syncteam)
 
 
 # 💻 Tech Stack:
