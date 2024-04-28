@@ -2,8 +2,8 @@
 
 #### A Full-Stack Web Developer 
 
-Front End Developer at [Evexi]([https://medicare.pt?ref=github-caneco](https://www.evexi.technology/));<br>
-Co-Founder at [Sync Development Services](https://discord.gg/syncteam);<br>
+**Front End Developer** at **[Evexi](https://www.evexi.technology/)**<br>
+**Co-Founder & Full Stack Developer** at [Sync Development Services](https://discord.gg/syncteam)<br>
 
 - ⚙️ I use daily: `.ts`, `.tsx`, `.lua`, `.html`, `.svelte`,
 - 🎓 I am currently learning `.go` 
