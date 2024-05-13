@@ -2,7 +2,7 @@
 
 #### A Full-Stack Web Developer 
 
-**Co-Founder & Full Stack Developer** at [Sync Development Services](https://discord.gg/syncteam)<br>
+**Founder** [Devify Studio](https://devify.studio)<br>
 
 
 <img align="right" alt="jpg" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzcodex24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
