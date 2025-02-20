@@ -12,4 +12,4 @@
 - 🌍 I'm mostly active within the **Web Development Community**
 - 💬 `ping` me about **design**, **branding**, **react**, **development**
 
-[![](https://visitcount.itsvg.in/api?id=Codex&label=Profile%20Views&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=itzcodex24&abbreviated=true&style=flat&color=blue)
