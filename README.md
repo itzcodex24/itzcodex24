@@ -19,7 +19,7 @@
 - 💡 I enjoy building all kinds of things—**web apps**, **mobile apps**, and even **games**.
 - 🧰 I’m comfortable working across the stack, from backend services to polished frontend UIs.
 - ⚙️ I value clean code, developer efficiency, and containerized workflows.
-- 🔧 I use **Neovim (LazyVim)** as my primary IDE, with a custom setup — I'll be open-sourcing my dotfiles soon.
+- 🔧 I use **Neovim (LazyVim)** as my primary IDE, with a custom setup — See my [dotfiles](https://github.com/itzcodex24/dotfiles) here
 
 ---
 
