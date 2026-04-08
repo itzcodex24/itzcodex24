@@ -14,7 +14,7 @@
 
 ### 🧠 About Me
 
-- 🧒 I'm **Andrei**, a 19-year-old Junior Software Engineer who’s been coding since the age of 14.
+- 🧒 I'm **Andrei**, a 20-year-old Junior Software Engineer who’s been coding since the age of 14.
 - 🧑‍💼 I’m the **founder of [Devify Studio](https://devify.studio)**, a design and development agency.
 - 💡 I enjoy building all kinds of things—**web apps**, **mobile apps**, and even **games**.
 - 🧰 I’m comfortable working across the stack, from backend services to polished frontend UIs.
