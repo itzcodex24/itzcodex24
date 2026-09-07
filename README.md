@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Andrei
 
-**💻 Software Engineer | Founder @ [Devify Studio](https://devify.studio) | React ⚛️ Next.js 🚀 Vue 🔷 Svelte 🔶 Express ⚙️ Hono ⚡ Docker 🐳 PostgreSQL 🐘 MongoDB 🍃 MariaDB 🔧**
+**💻 Software Engineer | Co-Founder @ [QAShip](https://qaship.com) | React ⚛️ Next.js 🚀 Vue 🔷 Svelte 🔶 Express ⚙️ Hono ⚡ Docker 🐳 PostgreSQL 🐘 MongoDB 🍃 MariaDB 🔧**
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=itzcodex24&style=for-the-badge&color=blue" alt="Profile views" />
@@ -15,7 +15,7 @@
 ### 🧠 About Me
 
 - 🧒 I'm **Andrei**, a 20-year-old Junior Software Engineer who’s been coding since the age of 14.
-- 🧑‍💼 I’m the **founder of [Devify Studio](https://devify.studio)**, a design and development agency.
+- 🧑‍💼 I’m the **co-founder of [QAShip](https://qaship.com)**, a forever-free application for Quality Assurance Engineers.
 - 💡 I enjoy building all kinds of things—**web apps**, **mobile apps**, and even **games**.
 - 🧰 I’m comfortable working across the stack, from backend services to polished frontend UIs.
 - ⚙️ I value clean code, developer efficiency, and containerized workflows.
